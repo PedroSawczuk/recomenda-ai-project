@@ -34,8 +34,9 @@ O projeto oferece uma interface simples para explorar filmes populares de acordo
 
 ## 🎥 Demonstração
 
-- **Screenshot/GIF**: _adicione aqui quando disponível_  
-- **Deploy**: _link do Vercel/Netlify quando publicar_
+![Tela Inicial](static/1.png)
+![Tela após a seleção](static/2.png)
+- **Deploy**: [recomenda-ai](https://recomenda-ai-project.vercel.app/)
 
 ---
 
