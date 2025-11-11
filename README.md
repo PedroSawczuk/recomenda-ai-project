@@ -9,8 +9,6 @@
 
 Aplicação web que recomenda filmes a partir de filtros (gênero, nota mínima, ano e idioma), consumindo a [TMDB API](https://developer.themoviedb.org/). UI responsiva com **Tailwind CSS**.
 
-> **Atenção**: não exponha a chave da API no código-fonte. Siga a seção **Configuração (.env)**.
-
 ---
 
 ## ☰ Sumário
